@@ -39,7 +39,7 @@ Comparisons across platforms
 
 Category-level saturation & opportunity mapping
 
-🧠 Data Sources & Collection Methods
+## Data Sources & Collection Methods
 Source	                              Method	             Tools/Libraries	
 YouTube	                         YouTube Data API v3	    googleapiclient	
 Product Hunt	                     GraphQL API	          requests	
@@ -50,7 +50,7 @@ There's An AI For That (TAAFT)   Selenium scraping	      selenium, BeautifulSoup
 
 All datasets were cleaned, merged, and normalized for consistent analysis.
 
-🛠️ Tech Stack
+## Tech Stack
 
 Python
 
